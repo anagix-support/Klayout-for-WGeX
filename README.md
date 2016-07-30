@@ -15,3 +15,6 @@ WGeXはMakeLSI:に参加すれば無料でLSIレイアウト設計に利用で�
 3. レイアウト画面のバックグラウンドの色を黒にかえる
  * File->Setupのフォーム左側で、DisplayのBackgroundを選択し、一番上のBackground colorを黒に変える（Choose...から選べる）
 4.
+ *
+
+![WGeXで作成したレイアウトをKlayoutで開いた](images/Screenshot_20160730_230256.png)
